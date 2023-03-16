@@ -1,1 +1,20 @@
+Hey Its me Ahmed!
 
+You can attach the Readme.md file in your profile like when you go to 
+creating a repository, you gave name of your Github account name this would mark this repository as the special one. Then put check on adding README.md file. 
+There are so many online Repository makers e.g.:
+
+https://readme.so/
+https://www.makeareadme.com/
+https://rahuldkjain.github.io/gh-profile-readme-generator/
+https://gprm.itsvg.in/
+https://readme-gen.vercel.app/
+
+Then fill the fields they are asking for you.
+
+After then opy the HTML code and paste on the README.md file when clicking on Edit button.
+And save the changes.
+Allow that tells that this README file will show on your github. And that's it. Congratulations!!!!!!!!!!!!
+
+For more understanding you can go through this link: 
+https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
