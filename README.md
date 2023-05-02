@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">An expert Python Developer, Web Developer, Django Framework, Metaverse Developer and Web Scraper with Python.</h3>
+<h3 align="center">An expert Python Developer, Web Developer, Backend & Frontend Developer, Metaverse Developer and Web Scraper with Python.</h3>
 
-- 🔭 I’m currently working on **Python, Metaverse, Web scraping**
+- 🔭 I’m currently working on **Python, Web scraping And AI**
 
 - 🌱 I’m currently learning **Metaverse, Django and Flask and Typescript**
 
