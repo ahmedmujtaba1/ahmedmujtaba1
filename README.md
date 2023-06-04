@@ -1,5 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Ahmed</h1>
+<h1 align="center">Hi  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Ahmed</h1>
 <h3 align="center">An expert Python Developer, Web Developer, Backend & Frontend Developer, Metaverse Developer and Web Scraper with Python.</h3>
 
 - 🔭 I’m currently working on **Python, Web scraping, Nextjs, Tailwind CSS, ShadCN, & Django**
