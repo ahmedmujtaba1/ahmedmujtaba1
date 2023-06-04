@@ -8,11 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmedmujtaba1](https://github.com/ahmedmujtaba1)
 
-- 📝 I regularly write articles on [https://github.com/ahmedmujtaba1](https://github.com/ahmedmujtaba1)
-
 - 📫 How to reach me **ahmed.mujtaba11737@hhs.edu.pk**
-
-- 📄 Know about my experiences [https://github.com/ahmedmujtaba1](https://github.com/ahmedmujtaba1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
