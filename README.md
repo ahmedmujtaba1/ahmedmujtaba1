@@ -3,9 +3,9 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Ahmed</h1>
-<h3 align="center">An expert Python Developer, Web Developer, Backend & Frontend Developer, Metaverse Developer and Web Scraper with Python.</h3>
+<h3 align="center">An expert Python Developer, Web Developer, Full Stack Developer with Python (Django) and Next.Js and Web Scraper with Python.</h3>
 
-- 🔭 I’m currently working on **Python, Web scraping, Nextjs, Tailwind CSS, ShadCN, & Django**
+- 🔭 I’m currently working on **Python, Web scraping, Nextjs, Tailwind CSS, ShadCN, & Django, Teachable Machine**
 
 - 🌱 I’m currently learning **Metaverse, BlockChain, AR, VR and Generative AI**
 
