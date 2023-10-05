@@ -3,7 +3,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Ahmed</h1>
-<h3 align="center">An expert Python Developer, Web Developer, Full Stack Developer with Python (Django) and Next.Js and Web Scraper with Python.</h3>
+<h3 align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=500&color=151CF7&center=true&vCenter=true&width=435&lines=Web+Scraper+;AI+Chatbots;Dialogflow+and+ChatGPT+Expert+;Full+Stack+Developer" alt="Typing SVG" /></h3>
 
 - 🔭 I’m currently working on **Python, Web scraping, Nextjs, Tailwind CSS, ShadCN, & Django, Teachable Machine**
 
