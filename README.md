@@ -14,10 +14,10 @@
 - 📫 How to reach me **ahmed.mujtaba11737@hhs.edu.pk**
 
 <a href="https://github.com/ahmedmujtaba1">
-<img align="center" alt="Mohsin's Github Stats" src="https://github-readme-stats-glyzzeiyw-saifurrahmanmohsin.vercel.app/api?username=ahmedmujtaba1&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" height="180px" /></a>
+<img align="center" alt="Mohsin's Github Stats" src="https://github-readme-stats-glyzzeiyw-saifurrahmanmohsin.vercel.app/api?username=ahmedmujtaba1&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" height="150px" /></a>
 
 <a href="https://github.com/ahmedmujtaba1">
-  <img align="center" src="https://github-readme-stats-glyzzeiyw-saifurrahmanmohsin.vercel.app/api/top-langs/?username=ahmedmujtaba1&layout=compact&theme=radical" height="180px" />
+  <img align="center" src="https://github-readme-stats-glyzzeiyw-saifurrahmanmohsin.vercel.app/api/top-langs/?username=ahmedmujtaba1&layout=compact&theme=radical" height="150px" />
 </a>
 
 <h3 align="left">Connect with me:</h3>
