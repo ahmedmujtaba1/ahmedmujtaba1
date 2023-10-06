@@ -13,6 +13,13 @@
 
 - 📫 How to reach me **ahmed.mujtaba11737@hhs.edu.pk**
 
+<a href="https://github.com/ahmedmujtaba1">
+<img align="center" alt="Mohsin's Github Stats" src="https://github-readme-stats-glyzzeiyw-saifurrahmanmohsin.vercel.app/api?username=ahmedmujtaba1&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" height="180px" /></a>
+
+<a href="https://github.com/ahmedmujtaba1">
+  <img align="center" src="https://github-readme-stats-glyzzeiyw-saifurrahmanmohsin.vercel.app/api/top-langs/?username=ahmedmujtaba1&layout=compact&theme=radical" height="180px" />
+</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahmed_mujtaba69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmed_mujtaba69" height="30" width="40" /></a>
