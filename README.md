@@ -1,30 +1,75 @@
-[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://techforpalestine.org/learn-more)
-<img src="./banner.gif" alt="Banner gif"/><
-<h3 align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=500&color=07EFFF&center=true&vCenter=true&width=435&lines=Web+Scraper+;AI+Chatbots;Dialogflow+and+ChatGPT+Expert+;Full+Stack+Developer" alt="Typing SVG" /></h3>
-
-- 🔭 I’m currently working on **Python, Web scraping, Nextjs, Tailwind CSS, ShadCN, & Django, Teachable Machine**
-
-- 🌱 I’m currently learning **Metaverse, BlockChain, AR, VR and Generative AI**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ahmedmujtaba1](https://github.com/ahmedmujtaba1)
-
-- 📫 How to reach me **ahmed.mujtaba11737@hhs.edu.pk**
-
-<a href="https://github.com/ahmedmujtaba1">
-<img align="center" alt="Mohsin's Github Stats" src="https://github-readme-stats-glyzzeiyw-saifurrahmanmohsin.vercel.app/api?username=ahmedmujtaba1&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" height="150px" /></a>
-
-<a href="https://github.com/ahmedmujtaba1">
-  <img align="center" src="https://github-readme-stats-glyzzeiyw-saifurrahmanmohsin.vercel.app/api/top-langs/?username=ahmedmujtaba1&layout=compact&theme=radical" height="150px" />
-</a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ahmed_mujtaba69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmed_mujtaba69" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/creative-programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/creative-programmer" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://paroopiatech.com" target="_blank">
+    <img src="https://paroopiatech.com/_next/static/media/logo-footer.2b23887e.png" alt="Paroopiatech Logo" width="180"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h1 align="center">Ahmed Mujtaba</h1>
+<h3 align="center">Full-Stack Engineer · Python & Automation Expert · AI Chatbot Developer</h3>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Buy my services"> </a></p><br><br>
+<p align="center">
+  <a href="https://paroopiatech.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=%F0%9F%8C%90%20Hire%20Me&color=blue&style=for-the-badge" alt="🌐 Hire Me"/>
+  </a>
+  <a href="mailto:ahmedmujtabadev@gmail.com">
+    <img src="https://img.shields.io/static/v1?label=&message=%E2%9C%89%EF%B8%8F%20Email&color=c14438&style=for-the-badge&logo=gmail" alt="✉️ Email"/>
+  </a>
+  <a href="tel:+923312269636">
+    <img src="https://img.shields.io/static/v1?label=&message=%F0%9F%93%9E%20+923312269636&color=grey&style=for-the-badge&logo=telephone" alt="📞 Phone"/>
+  </a>
+  <a href="https://www.linkedin.com/in/creative-programmer/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
+---
+
+## 🚀 Services We Provide
+
+| Category                 | Key Features                                                              |
+|--------------------------|----------------------------------------------------------------------------|
+| **Web Scraping**         | • Product & price tracking<br>• Review & rating analysis<br>• CSV/JSON export<br>• Proxy & CAPTCHA handling |
+| **AI Chatbots & Agents** | • GPT-4/Dialogflow/Claude workflows<br>• 24/7 conversational support<br>• CRM & API integrations<br>• Multilingual memory |
+| **Web & API Development**| • Next.js · React · Django · FastAPI<br>• Headless CMS · SEO-friendly<br>• Mobile-first & responsive designs |
+| **Automation Bots**      | • Selenium & Playwright scripts<br>• Task scheduling & retries<br>• API orchestration & error handling |
+| **Database Solutions**   | • PostgreSQL · MySQL · MongoDB · Redis<br>• Schema design & optimization<br>• Backups & migrations |
+| **DevOps & Deployment**  | • AWS EC2 · Netlify · Docker · CI/CD<br>• Nginx & SSL setup |
+
+---
+
+## 🎥 Client Testimonial
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=t1qSkolhx1I" target="_blank">
+    <img src="https://img.youtube.com/vi/t1qSkolhx1I/maxresdefault.jpg" alt="Testimonial Video" width="560"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=t1qSkolhx1I" target="_blank">
+    ▶️ Watch Client Testimonial
+  </a>
+</p>
+
+---
+
+## 💡 Expertise & Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django" alt="Django"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis" alt="Redis"/>
+  <img src="https://img.shields.io/badge/REST%20API-61DAFB?style=flat-square&logo=rest" alt="REST API"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/AI-E64646?style=flat-square&logo=googleai" alt="AI"/>
+</p>
+
+---
+
+<p align="center">
+  ⭐ If you love what you see, <a href="https://paroopiatech.com" target="_blank">hire me at Paroopiatech!</a> ⭐
+</p>
